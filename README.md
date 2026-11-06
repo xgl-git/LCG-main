@@ -11,6 +11,9 @@ Install all required libraries:
 pip install -r requirements.txt
 ```
 ### Model Preparation
-Meta-Llama-3-8B
+Meta-Llama-3-8B Instruct
+、、、
+### Train&&Inference
+python main.py
 
 
