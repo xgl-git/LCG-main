@@ -4,7 +4,7 @@
 
 We use anaconda to create environment:
 ```
-conda create --name planrag python=3.9
+conda create --name lcg python=3.10
 ```
 Install all required libraries:
 ```
